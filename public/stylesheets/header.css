@@ -1,9 +1,42 @@
-header {}
+header {
+    background-color: orangered;
+    padding: 10px;
+}
 
-header .contenedor {}
+/* LOGO Y BOTON*/
 
-header .contenedor img {}
+header .contenedor-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-header .contenedor button {}
+header .contenedor-logo img {}
 
-header .contenedor button i {}
+header .contenedor-logo button {
+    background: none;
+    border: none;
+    color: white;
+    border: solid 1px white;
+    border-radius: 2px;
+    padding: 8px;
+    line-height: 0;
+    font-size: 1.2rem;
+}
+
+header .contenedor-logo button i {}
+
+/* MENU*/
+
+header .contenedor-menu {}
+
+header .contenedor-menu nav {}
+
+header .contenedor-menu nav ul {
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+header .contenedor-menu nav ul li {}
+
+header .contenedor-menu nav ul li a {}

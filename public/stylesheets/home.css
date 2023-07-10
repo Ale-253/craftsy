@@ -1,0 +1,45 @@
+/* ---------- MAIN ----------*/
+
+.home {}
+
+/* PRODUCTOS */
+
+.home .contenedor-productos {}
+
+.contenedor-prod-individual {}
+
+.contenedor-prod-individual img {}
+
+.contenedor-prod-individual .info {}
+
+.contenedor-prod-individual .info h4 {}
+
+.contenedor-prod-individual .info p {}
+
+.contenedor-prod-individual .info a {}
+
+/* ---------- ASIDE ----------*/
+
+aside {}
+
+/* SECCION TUTORIALES */
+
+.contenedor-tutoriales {}
+
+.contenedor-tutoriales h3 {}
+
+.contenedor-tuto {}
+
+.contenedor-tuto img {}
+
+.contenedor-tuto h5 {}
+
+/* SECCION PUBLICIDAD */
+
+.publicidad {}
+
+.publicidad h3 {}
+
+.contenedor-imgs-publi {}
+
+.contenedor-imgs-publi img {}
